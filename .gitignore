@@ -1,0 +1,9 @@
+# Exclude
+*.json
+*.gs
+*.gscript
+*.gsheet
+node_modules/
+
+# Include the following in commit
+!appsscript.json
